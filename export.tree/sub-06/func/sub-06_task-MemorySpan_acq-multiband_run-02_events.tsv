@@ -1,0 +1,17 @@
+onset	duration	trial_type	Trial	LetterFinger	Number	TextDisplay1.OnsetTime	TextDisplay2.OnsetTime	Interval2.OnsetTime
+97.471	12	fingerspelling	4	2	7	25083	122554	n/a
+157.966	12	fingerspelling	6	2	4	25083	183049	n/a
+186.97	12	fingerspelling	7	2	6	25083	212053	n/a
+216.475	12	fingerspelling	8	2	5	25083	241558	n/a
+245.964	12	fingerspelling	9	2	6	25083	271047	n/a
+303.973	12	fingerspelling	11	2	4	25083	329056	n/a
+362.466	12	fingerspelling	13	2	5	25083	387549	n/a
+392.471	12	fingerspelling	14	2	7	25083	417554	n/a
+9.023	12	letter	1	1	4	25083	n/a	34106
+37.978	12	letter	2	1	6	25083	n/a	63061
+67.016	12	letter	3	1	4	25083	n/a	92099
+127.477	12	letter	5	1	7	25083	n/a	152560
+274.484	12	letter	10	1	5	25083	n/a	299567
+331.977	12	letter	12	1	6	25083	n/a	357060
+421.492	12	letter	15	1	5	25083	n/a	446575
+451.464	12	letter	16	1	7	25083	n/a	476547
